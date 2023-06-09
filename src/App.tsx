@@ -7,7 +7,7 @@ import './style.css';
 export default function App() {
   return (
     <FormControl>
-      <FormLabel>tets gfgfg ghhggh gfhghfghgfhff</FormLabel>
+      <FormLabel>Test formcontrol with checkbox </FormLabel>
       <Checkbox />
     </FormControl>
   );
